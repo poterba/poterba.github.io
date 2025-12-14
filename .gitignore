@@ -1,0 +1,13 @@
+# Ignore Jekyll files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Bundler files
+.bundle/
+vendor/
+
+# Ignore other files
+.DS_Store
+Thumbs.db
