@@ -21,9 +21,13 @@
 title: POTERBA
 email: vitalii.poterba@gmail.com
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal site of Vitalii Poterba, Software Engineer.
+  Blogs about programming, technology, and software development.
+  Sharing knowledge and experiences in the tech world.
+  Join me on my journey through code and innovation!
+  Explore tutorials, insights, and stories from my career.
+  Let's connect and grow together in the ever-evolving world of technology!
+  Welcome to my personal developer blog!
 baseurl: ""
 url: "https://poterba.github.io"
 repository: "poterba/poterba.github.io"
