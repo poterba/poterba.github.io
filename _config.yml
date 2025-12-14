@@ -42,6 +42,11 @@ plugins:
 - jekyll-archives
 - jekyll-paginate
 
+style: sidebar
+social_media:
+  docker: poterba
+  github: poterba
+  mail: vitalii.poterba@gmail.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.

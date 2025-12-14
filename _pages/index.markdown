@@ -1,6 +1,7 @@
 ---
 id: home
-layout: default
+layout: page
+permalink: /
 ---
 
 Welcome!
