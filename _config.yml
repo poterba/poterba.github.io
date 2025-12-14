@@ -42,6 +42,8 @@ plugins:
 - jekyll-archives
 - jekyll-paginate
 
+google_analytics_id: G-205LV7QLNY
+
 style: sidebar
 social_media:
   docker: poterba
