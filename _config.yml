@@ -20,12 +20,12 @@
 
 title: POTERBA
 email: vitalii.poterba@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://poterba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://poterba.github.io"
 repository: "poterba/poterba.github.io"
 github_username: poterba
 
@@ -33,18 +33,14 @@ include:
 - _pages
 
 # Build settings
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+theme: jekyll-theme-profile
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-archives
-  - jekyll-paginate
-
-sidebar:
-- home
-- about
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-archives
+- jekyll-paginate
 
 
 # Exclude from processing.
